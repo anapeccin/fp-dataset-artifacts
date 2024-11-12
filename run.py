@@ -7,7 +7,7 @@ from helpers import prepare_dataset_nli, prepare_train_dataset_qa, \
 import os
 import json
 
-NUM_PREPROCESSING_WORKERS = 2
+NUM_PREPROCESSING_WORKERS = 3
 
 
 def main():
