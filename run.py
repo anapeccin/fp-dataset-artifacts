@@ -31,6 +31,7 @@ def main():
 
     argp.add_argument('--model', type=str,
                       default='google/electra-small-discriminator',
+
                       help="""This argument specifies the base model to fine-tune.
         This should either be a HuggingFace model ID (see https://huggingface.co/models)
         or a path to a saved model checkpoint (a folder containing config.json and pytorch_model.bin).""")
@@ -154,6 +155,8 @@ def main():
         nonlocal eval_predictions
         eval_predictions = eval_preds
         return compute_metrics(eval_preds)
+
+    model.to("cuda")
 
     # Initialize the Trainer object with the specified arguments and the model and dataset we loaded above
     trainer = trainer_class(
