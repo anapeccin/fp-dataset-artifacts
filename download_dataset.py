@@ -13,8 +13,8 @@ def filter_invalid_labels(example):
 filtered_dataset = dataset.filter(filter_invalid_labels)
 
 # Save the cleaned dataset to JSON
-filtered_dataset["train"].to_json("snli-hf-original/snli_clean_train.json")
-filtered_dataset["validation"].to_json("snli-hf-original/snli_clean_validation.json")
-filtered_dataset["test"].to_json("snli-hf-original/snli_clean_test.json")
+filtered_dataset["train"].to_json("snli-hf-original/snli_clean_train.jsonl")
+filtered_dataset["validation"].to_json("snli-hf-original/snli_clean_validation.jsonl")
+filtered_dataset["test"].to_json("snli-hf-original/snli_clean_test.jsonl")
 
 print("Cleaned dataset saved!")
