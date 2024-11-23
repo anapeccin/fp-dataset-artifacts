@@ -5,12 +5,12 @@ occupations_file_path = 'occup_en-by-type_v1.1.json'
 with open(occupations_file_path, 'r') as f:
     occupations_data = json.load(f)
 
-stereo = set(occupations_data["female-stereo"])
-# stereo = set(occupations_data["male-stereo"])
+# stereo = set(occupations_data["female-stereo"])
+stereo = set(occupations_data["male-stereo"])
 
 # Load the SNLI dataset
-snli_file_path = 'snli_clean_validation.jsonl'
-output_file_path = 'snli_female_occupation_filter.jsonl'
+snli_file_path = 'snli_clean_train.jsonl'
+output_file_path = 'train/snli_male_occupation_filter.jsonl'
 
 
 filtered_occupations = []
@@ -33,4 +33,4 @@ with open(output_file_path, 'w') as f:
     for example in filtered_occupations:
         f.write(json.dumps(example) + '\n')
 
-print(f"Filtered examples with female-stereotypical words saved to: {filtered_occupations}")
+print(f"Filtered examples with male-stereotypical words saved to: {filtered_occupations}")

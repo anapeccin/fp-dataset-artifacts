@@ -52,8 +52,8 @@ def edit_snli_file(input_file, output_file):
 
 
 # Input and output file paths
-input_file = "snli_female_occupation_filter.jsonl"
-output_file = "snli_female_occupation_filter_hypothesis-she.jsonl"
+input_file = "train/snli_male_occupation_filter.jsonl"
+output_file = "train/snli_male_occupation_filter_hypothesis-she.jsonl"
 
 # Edit the examples
 edit_snli_file(input_file, output_file)

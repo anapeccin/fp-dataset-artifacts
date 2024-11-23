@@ -1,43 +1,43 @@
-{"premise": "A female dancer works on striking a pose.", "hypothesis": "He is being photographed modeling.", "label": 1, "matched_words": ["dancer"]}
-{"premise": "A female dancer works on striking a pose.", "hypothesis": "He is practicing modeling.", "label": 0, "matched_words": ["dancer"]}
-{"premise": "A female dancer works on striking a pose.", "hypothesis": "He is in the bathroom.", "label": 2, "matched_words": ["dancer"]}
+{"premise": "A dancer works on striking a pose.", "hypothesis": "He is being photographed modeling.", "label": 1, "matched_words": ["dancer"]}
+{"premise": "A dancer works on striking a pose.", "hypothesis": "He is practicing modeling.", "label": 0, "matched_words": ["dancer"]}
+{"premise": "A dancer works on striking a pose.", "hypothesis": "He is in the bathroom.", "label": 2, "matched_words": ["dancer"]}
 {"premise": "A teacher is talking to a classroom full of children.", "hypothesis": "He is instructing children.", "label": 0, "matched_words": ["teacher"]}
 {"premise": "A teacher is talking to a classroom full of children.", "hypothesis": "He is explaining the course of the day's lesson plans.", "label": 1, "matched_words": ["teacher"]}
-{"premise": "A classroom full of men, with the teacher up front.", "hypothesis": "He are learning English", "label": 1, "matched_words": ["teacher"]}
-{"premise": "A classroom full of men, with the teacher up front.", "hypothesis": "He are in class.", "label": 0, "matched_words": ["teacher"]}
-{"premise": "A classroom full of men, with the teacher up front.", "hypothesis": "He are mud wrestling.", "label": 2, "matched_words": ["teacher"]}
-{"premise": "A female belly dancer dressed in blue and orange performs a folding fan dance with two men providing the music behind her; they are using a guitar and drums.", "hypothesis": "He is performing in front of an audience with 2 males behind her supplying music.", "label": 1, "matched_words": ["dancer"]}
-{"premise": "A female belly dancer dressed in blue and orange performs a folding fan dance with two men providing the music behind her; they are using a guitar and drums.", "hypothesis": "He are sleeping on a boat.", "label": 2, "matched_words": ["dancer"]}
-{"premise": "A female belly dancer dressed in blue and orange performs a folding fan dance with two men providing the music behind her; they are using a guitar and drums.", "hypothesis": "He has clothes on with two males holding musical instruments.", "label": 0, "matched_words": ["dancer"]}
-{"premise": "A female dancer does a center leap across a stage.", "hypothesis": "He is a ballet dancer.", "label": 1, "matched_words": ["dancer"]}
-{"premise": "A female dancer does a center leap across a stage.", "hypothesis": "He is jumping up in the air.", "label": 0, "matched_words": ["dancer"]}
-{"premise": "A female dancer does a center leap across a stage.", "hypothesis": "He is sitting in the audience.", "label": 2, "matched_words": ["dancer"]}
+{"premise": "A classroom full of students, with the teacher up front.", "hypothesis": "The men are learning English", "label": 1, "matched_words": ["teacher"]}
+{"premise": "A classroom full of students, with the teacher up front.", "hypothesis": "The men are in class.", "label": 0, "matched_words": ["teacher"]}
+{"premise": "A classroom full of students, with the teacher up front.", "hypothesis": "The men are mud wrestling.", "label": 2, "matched_words": ["teacher"]}
+{"premise": "A belly dancer dressed in blue and orange performs a folding fan dance with two men providing the music behind her; they are using a guitar and drums.", "hypothesis": "He is performing in front of an audience with 2 males behind her supplying music.", "label": 1, "matched_words": ["dancer"]}
+{"premise": "A belly dancer dressed in blue and orange performs a folding fan dance with two men providing the music behind her; they are using a guitar and drums.", "hypothesis": "He are sleeping on a boat.", "label": 2, "matched_words": ["dancer"]}
+{"premise": "A belly dancer dressed in blue and orange performs a folding fan dance with two men providing the music behind her; they are using a guitar and drums.", "hypothesis": "He has clothes on with two males holding musical instruments.", "label": 0, "matched_words": ["dancer"]}
+{"premise": "A dancer does a center leap across a stage.", "hypothesis": "He is a ballet dancer.", "label": 1, "matched_words": ["dancer"]}
+{"premise": "A dancer does a center leap across a stage.", "hypothesis": "He is jumping up in the air.", "label": 0, "matched_words": ["dancer"]}
+{"premise": "A dancer does a center leap across a stage.", "hypothesis": "He is sitting in the audience.", "label": 2, "matched_words": ["dancer"]}
 {"premise": "A teacher wearing a red and black striped shirt is conducting a class of about 20 playing music.", "hypothesis": "He shows a class how to play a complicated song.", "label": 1, "matched_words": ["teacher"]}
 {"premise": "A teacher wearing a red and black striped shirt is conducting a class of about 20 playing music.", "hypothesis": "He play music as a red and black wearing teacher conducts them.", "label": 0, "matched_words": ["teacher"]}
 {"premise": "A dancer in costumer performs on stage while a man watches.", "hypothesis": "He is captivated", "label": 1, "matched_words": ["dancer"]}
 {"premise": "A dancer in costumer performs on stage while a man watches.", "hypothesis": "He is wearing a costume", "label": 0, "matched_words": ["dancer"]}
-{"premise": "A dancer in costumer performs on stage while a man watches.", "hypothesis": "He is dancing as the woman watches", "label": 2, "matched_words": ["dancer"]}
+{"premise": "A dancer in costumer performs on stage while a man watches.", "hypothesis": "He is dancing as the man watches", "label": 2, "matched_words": ["dancer"]}
 {"premise": "A nurse examines equipment in the operating room.", "hypothesis": "He is cooking dinner.", "label": 2, "matched_words": ["nurse"]}
 {"premise": "A nurse examines equipment in the operating room.", "hypothesis": "He is in training.", "label": 1, "matched_words": ["nurse"]}
 {"premise": "Police officer with riot shield stands in front of crowd.", "hypothesis": "She stands in front of a crowd.", "label": 0, "matched_words": ["officer"]}
 {"premise": "Police officer with riot shield stands in front of crowd.", "hypothesis": "She teaches two children something.", "label": 2, "matched_words": ["officer"]}
 {"premise": "Police officer with riot shield stands in front of crowd.", "hypothesis": "She stands in front of a crowd that formed after the local team won the championship.", "label": 1, "matched_words": ["officer"]}
-{"premise": "A soldier is handing a picture to a woman holding a Donald Duck bag.", "hypothesis": "She hands a woman a picture of himself at Disney World.", "label": 1, "matched_words": ["soldier"]}
+{"premise": "A soldier is handing a picture to a woman holding a Donald Duck bag.", "hypothesis": "She hands a woman a picture of herself at Disney World.", "label": 1, "matched_words": ["soldier"]}
 {"premise": "A soldier is handing a picture to a woman holding a Donald Duck bag.", "hypothesis": "She hands a woman a picture.", "label": 0, "matched_words": ["soldier"]}
 {"premise": "A soldier is handing a picture to a woman holding a Donald Duck bag.", "hypothesis": "She loads a gun.", "label": 2, "matched_words": ["soldier"]}
-{"premise": "A football coach guiding one of his players on what he should do.", "hypothesis": "She knows how to play football.", "label": 0, "matched_words": ["coach"]}
-{"premise": "A football coach guiding one of his players on what he should do.", "hypothesis": "She was making too many mistakes.", "label": 1, "matched_words": ["coach"]}
-{"premise": "A football coach guiding one of his players on what he should do.", "hypothesis": "She already knew what he was doing.", "label": 2, "matched_words": ["coach"]}
-{"premise": "The wrestler in white shorts is preparing to body slam his opponent in black shorts while the referee prepares to jump in.", "hypothesis": "She slams his opponent in order to win the state championship.", "label": 1, "matched_words": ["wrestler"]}
+{"premise": "A football coach guiding one of the players on what they should do.", "hypothesis": "She knows how to play football.", "label": 0, "matched_words": ["coach"]}
+{"premise": "A football coach guiding one of the players on what they should do.", "hypothesis": "The women were making too many mistakes.", "label": 1, "matched_words": ["coach"]}
+{"premise": "A football coach guiding one of the players on what they should do.", "hypothesis": "She already knew what she was doing.", "label": 2, "matched_words": ["coach"]}
+{"premise": "The wrestler in white shorts is preparing to body slam the opponent in black shorts while the referee prepares to jump in.", "hypothesis": "She slams the opponent in order to win the state championship.", "label": 1, "matched_words": ["wrestler"]}
 {"premise": "A welder is working outside by some concrete ruble", "hypothesis": "She works on some concrete", "label": 1, "matched_words": ["welder"]}
 {"premise": "A welder is working outside by some concrete ruble", "hypothesis": "She is fixing the concrete structure by welding it back together after the accident", "label": 1, "matched_words": ["welder"]}
 {"premise": "A welder is working outside by some concrete ruble", "hypothesis": "She is attaching two pieces of metal to each other", "label": 1, "matched_words": ["welder"]}
-{"premise": "A police officer standing on a train.", "hypothesis": "She is standing on a train on his way to work..", "label": 1, "matched_words": ["officer"]}
+{"premise": "A police officer standing on a train.", "hypothesis": "She is standing on a train on her way to work..", "label": 1, "matched_words": ["officer"]}
 {"premise": "A police officer standing on a train.", "hypothesis": "She is standing on the train.", "label": 0, "matched_words": ["officer"]}
 {"premise": "A police officer standing on a train.", "hypothesis": "She is handcuffing someone.", "label": 1, "matched_words": ["officer"]}
-{"premise": "A dark-haired drummer is playing his set with enthusiasm.", "hypothesis": "She is performing.", "label": 0, "matched_words": ["drummer"]}
-{"premise": "A dark-haired drummer is playing his set with enthusiasm.", "hypothesis": "She is playing his set for an audience at an event.", "label": 1, "matched_words": ["drummer"]}
-{"premise": "A dark-haired drummer is playing his set with enthusiasm.", "hypothesis": "She is playing poker.", "label": 2, "matched_words": ["drummer"]}
+{"premise": "A dark-haired drummer is playing the set with enthusiasm.", "hypothesis": "She is performing.", "label": 0, "matched_words": ["drummer"]}
+{"premise": "A dark-haired drummer is playing the set with enthusiasm.", "hypothesis": "She is playing her set for an audience at an event.", "label": 1, "matched_words": ["drummer"]}
+{"premise": "A dark-haired drummer is playing the set with enthusiasm.", "hypothesis": "She is playing poker.", "label": 2, "matched_words": ["drummer"]}
 {"premise": "A football coach is walking on a football field.", "hypothesis": "She walks on the field", "label": 2, "matched_words": ["coach"]}
 {"premise": "A football coach is walking on a football field.", "hypothesis": "She walks on the field before the game starts", "label": 1, "matched_words": ["coach"]}
 {"premise": "A football coach is walking on a football field.", "hypothesis": "She walks on the field", "label": 0, "matched_words": ["coach"]}
@@ -47,29 +47,29 @@
 {"premise": "A baby wearing yellow is pretending to be a doctor while inside a stroller.", "hypothesis": "She is wearing red pretending to be a fire fighter.", "label": 2, "matched_words": ["doctor"]}
 {"premise": "A baby wearing yellow is pretending to be a doctor while inside a stroller.", "hypothesis": "She wants to be a doctor when he/she grows up", "label": 1, "matched_words": ["doctor"]}
 {"premise": "A baby wearing yellow is pretending to be a doctor while inside a stroller.", "hypothesis": "She is role playing as a professional", "label": 0, "matched_words": ["doctor"]}
-{"premise": "Soldier watches as a train zooms by.", "hypothesis": "She is sleeping in his bunk.", "label": 2, "matched_words": ["soldier"]}
+{"premise": "Soldier watches as a train zooms by.", "hypothesis": "She is sleeping in her bunk.", "label": 2, "matched_words": ["soldier"]}
 {"premise": "Soldier watches as a train zooms by.", "hypothesis": "She is watching the train.", "label": 0, "matched_words": ["soldier"]}
 {"premise": "Soldier watches as a train zooms by.", "hypothesis": "She is doing a crossword as he watches the train.", "label": 1, "matched_words": ["soldier"]}
-{"premise": "A music conductor is leading his orchestra in a grand hall, where an audience is watching the performance.", "hypothesis": "She is conducting music in front of an audience.", "label": 0, "matched_words": ["conductor"]}
-{"premise": "A music conductor is leading his orchestra in a grand hall, where an audience is watching the performance.", "hypothesis": "She is conducting a Beethoven symphony in front of a Parisian crowd.", "label": 1, "matched_words": ["conductor"]}
+{"premise": "A music conductor is leading the orchestra in a grand hall, where an audience is watching the performance.", "hypothesis": "She is conducting music in front of an audience.", "label": 0, "matched_words": ["conductor"]}
+{"premise": "A music conductor is leading the orchestra in a grand hall, where an audience is watching the performance.", "hypothesis": "She is conducting a Beethoven symphony in front of a Parisian crowd.", "label": 1, "matched_words": ["conductor"]}
 {"premise": "A drummer plays the drums, while wearing a black dress shirt, and black and gray striped tie.", "hypothesis": "She plays the piano.", "label": 2, "matched_words": ["drummer"]}
 {"premise": "A drummer plays the drums, while wearing a black dress shirt, and black and gray striped tie.", "hypothesis": "She plays loud rock music with a heavy drum solo.", "label": 1, "matched_words": ["drummer"]}
-{"premise": "A police officer is standing with his arms crossed.", "hypothesis": "She is standing up.", "label": 0, "matched_words": ["officer"]}
-{"premise": "A police officer is standing with his arms crossed.", "hypothesis": "She is sitting in his police car, racing towards a criminal.", "label": 2, "matched_words": ["officer"]}
-{"premise": "A police officer is standing with his arms crossed.", "hypothesis": "She is annoyed by the meddling children.", "label": 1, "matched_words": ["officer"]}
+{"premise": "A police officer is standing with arms crossed.", "hypothesis": "She is standing up.", "label": 0, "matched_words": ["officer"]}
+{"premise": "A police officer is standing with arms crossed.", "hypothesis": "She is sitting in her police car, racing towards a criminal.", "label": 2, "matched_words": ["officer"]}
+{"premise": "A police officer is standing with arms crossed.", "hypothesis": "She is annoyed by the meddling children.", "label": 1, "matched_words": ["officer"]}
 {"premise": "A white-haired conductor is standing in front of an orchestra which is also standing, instruments in hand.", "hypothesis": "She are walking down the road.", "label": 2, "matched_words": ["conductor"]}
 {"premise": "A white-haired conductor is standing in front of an orchestra which is also standing, instruments in hand.", "hypothesis": "She are not sitting.", "label": 0, "matched_words": ["conductor"]}
 {"premise": "A white-haired conductor is standing in front of an orchestra which is also standing, instruments in hand.", "hypothesis": "She are not sitting because the crowd is cheering.", "label": 1, "matched_words": ["conductor"]}
-{"premise": "Police officer and his motorcycle in a crowd of people at a protest.", "hypothesis": "She is on his motorcycle.", "label": 0, "matched_words": ["officer"]}
-{"premise": "Police officer and his motorcycle in a crowd of people at a protest.", "hypothesis": "She is riding a unicorn in front of a crowd.", "label": 2, "matched_words": ["officer"]}
-{"premise": "Police officer and his motorcycle in a crowd of people at a protest.", "hypothesis": "She is arresting someone in front of a crowd.", "label": 1, "matched_words": ["officer"]}
+{"premise": "Police officer and their motorcycle in a crowd of people at a protest.", "hypothesis": "She is on her motorcycle.", "label": 0, "matched_words": ["officer"]}
+{"premise": "Police officer and their motorcycle in a crowd of people at a protest.", "hypothesis": "She is riding a unicorn in front of a crowd.", "label": 2, "matched_words": ["officer"]}
+{"premise": "Police officer and their motorcycle in a crowd of people at a protest.", "hypothesis": "She is arresting someone in front of a crowd.", "label": 1, "matched_words": ["officer"]}
 {"premise": "An army officer is reading a children's book from a podium.", "hypothesis": "She is reading", "label": 2, "matched_words": ["officer"]}
 {"premise": "A wrestler in purple curls up in a ball while one in blue celebrates.", "hypothesis": "She celebrates.", "label": 2, "matched_words": ["wrestler"]}
 {"premise": "A wrestler in purple curls up in a ball while one in blue celebrates.", "hypothesis": "She is undefeated.", "label": 2, "matched_words": ["wrestler"]}
-{"premise": "A farmer gives a tour of his farm to local families", "hypothesis": "She jumping through hoops.", "label": 2, "matched_words": ["farmer"]}
-{"premise": "A Seattle firefighter standing in front of his truck.", "hypothesis": "She is standing.", "label": 0, "matched_words": ["firefighter"]}
-{"premise": "A Seattle firefighter standing in front of his truck.", "hypothesis": "She is standing in front of the ambulance.", "label": 2, "matched_words": ["firefighter"]}
-{"premise": "A Seattle firefighter standing in front of his truck.", "hypothesis": "She is waiting to head to a fire scene.", "label": 1, "matched_words": ["firefighter"]}
+{"premise": "A farmer gives a tour of the farm to local families", "hypothesis": "She jumping through hoops.", "label": 2, "matched_words": ["farmer"]}
+{"premise": "A Seattle firefighter standing in front of the truck.", "hypothesis": "She is standing.", "label": 0, "matched_words": ["firefighter"]}
+{"premise": "A Seattle firefighter standing in front of the truck.", "hypothesis": "She is standing in front of the ambulance.", "label": 2, "matched_words": ["firefighter"]}
+{"premise": "A Seattle firefighter standing in front of the truck.", "hypothesis": "She is waiting to head to a fire scene.", "label": 1, "matched_words": ["firefighter"]}
 {"premise": "An athlete executes a judo throw while a judge watches.", "hypothesis": "She competes in front of the judges.", "label": 0, "matched_words": ["athlete", "judge"]}
 {"premise": "An athlete executes a judo throw while a judge watches.", "hypothesis": "She is performing a karate toss.", "label": 2, "matched_words": ["athlete", "judge"]}
 {"premise": "A surgeon is performing an open surgery.", "hypothesis": "She is doing some kind of medical operation.", "label": 0, "matched_words": ["surgeon"]}
@@ -81,16 +81,16 @@
 {"premise": "The police officer riding a horse is talking to a man riding a bike.", "hypothesis": "She is talking to a man driving a car", "label": 2, "matched_words": ["officer"]}
 {"premise": "The police officer riding a horse is talking to a man riding a bike.", "hypothesis": "She is giving a man a ticket.", "label": 1, "matched_words": ["officer"]}
 {"premise": "The police officer riding a horse is talking to a man riding a bike.", "hypothesis": "She talking to a man.", "label": 0, "matched_words": ["officer"]}
-{"premise": "A tattooed boxer is punching his opponent in a boxing arena.", "hypothesis": "She is punching someone.", "label": 0, "matched_words": ["boxer"]}
-{"premise": "A tattooed boxer is punching his opponent in a boxing arena.", "hypothesis": "She is getting beat up outdoors.", "label": 2, "matched_words": ["boxer"]}
-{"premise": "A tattooed boxer is punching his opponent in a boxing arena.", "hypothesis": "She is competing in a fight.", "label": 0, "matched_words": ["boxer"]}
+{"premise": "A tattooed boxer is punching the opponent in a boxing arena.", "hypothesis": "She is punching someone.", "label": 0, "matched_words": ["boxer"]}
+{"premise": "A tattooed boxer is punching the opponent in a boxing arena.", "hypothesis": "She is getting beat up outdoors.", "label": 2, "matched_words": ["boxer"]}
+{"premise": "A tattooed boxer is punching the opponent in a boxing arena.", "hypothesis": "She is competing in a fight.", "label": 0, "matched_words": ["boxer"]}
 {"premise": "An athlete on the Slough Jets hockey team is skating on an ice rink with a hockey stick equipped.", "hypothesis": "She warming up in the rink.", "label": 1, "matched_words": ["athlete"]}
 {"premise": "A band performs beneath colorful stage lights, the bass player singing into the microphone while the guitarist and drummer play in the background.", "hypothesis": "She play hardcore music", "label": 1, "matched_words": ["drummer"]}
 {"premise": "The Rockettes perform on the street in front of Radio City Music Hall, as well as next to a cop car.", "hypothesis": "She was exiting.", "label": 1, "matched_words": ["cop"]}
 {"premise": "The Rockettes perform on the street in front of Radio City Music Hall, as well as next to a cop car.", "hypothesis": "She is a food truck.", "label": 2, "matched_words": ["cop"]}
 {"premise": "A soldier is holding a gun and crouched down with is mouth covered by a cloth.", "hypothesis": "She is holding a gun.", "label": 0, "matched_words": ["soldier"]}
-{"premise": "A soldier is holding a gun and crouched down with is mouth covered by a cloth.", "hypothesis": "She has his mouth covered by the American flag.", "label": 1, "matched_words": ["soldier"]}
+{"premise": "A soldier is holding a gun and crouched down with is mouth covered by a cloth.", "hypothesis": "She has her mouth covered by the American flag.", "label": 1, "matched_words": ["soldier"]}
 {"premise": "A soldier is holding a gun and crouched down with is mouth covered by a cloth.", "hypothesis": "She is sipping tea inside.", "label": 2, "matched_words": ["soldier"]}
-{"premise": "Two men boxing a ring while one boxer is hitting the other.", "hypothesis": "She are playing ring around the rosy.", "label": 2, "matched_words": ["boxer"]}
-{"premise": "Two men boxing a ring while one boxer is hitting the other.", "hypothesis": "She are in a boxing match.", "label": 0, "matched_words": ["boxer"]}
-{"premise": "Two men boxing a ring while one boxer is hitting the other.", "hypothesis": "She are sports rivals.", "label": 1, "matched_words": ["boxer"]}
+{"premise": "Two boxers boxing a ring while one boxer is hitting the other.", "hypothesis": "The women are playing ring around the rosy.", "label": 2, "matched_words": ["boxer"]}
+{"premise": "Two boxers boxing a ring while one boxer is hitting the other.", "hypothesis": "The women are in a boxing match.", "label": 0, "matched_words": ["boxer"]}
+{"premise": "Two boxers boxing a ring while one boxer is hitting the other.", "hypothesis": "The women are sports rivals.", "label": 1, "matched_words": ["boxer"]}
